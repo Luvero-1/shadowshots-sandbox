@@ -1,0 +1,34 @@
+{
+  "name": "shadowshots-sandbox",
+  "title": "Shadowshots-sandbox",
+  "description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"worlds/shadowshots/imagenes/Shadowland%20fondo.jpg\" width=\"212\" height=\"208\" /></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\">Sistema gen&eacute;rico para jugar partidas con las aventuras de Shadowshots</p>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/shadowshots-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/shadowshots-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/shadowshots-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/shadowshots-sandbox/imagenes/Shadowland%20fondo.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.11.0"
+}
