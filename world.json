@@ -1,7 +1,7 @@
 {
   "name": "shadowshots-sandbox",
   "title": "Shadowshots-sandbox",
-  "description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"worlds/shadowshots/imagenes/Shadowland%20fondo.jpg\" width=\"212\" height=\"208\" /></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\">Sistema gen&eacute;rico para jugar partidas con las aventuras de Shadowshots</p>",
+  "description": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"worlds/shadowshots/imagenes/Shadowland%20fondo.jpg\" width=\"212\" height=\"208\" /></p>\n<p style=\"text-align: center;\">Sistema gen&eacute;rico para jugar partidas con las aventuras de Shadowshots</p>",
   "author": "Luvero",
   "authors": [
     {
@@ -26,9 +26,9 @@
   "download": "https://codeload.github.com/Luvero-1/shadowshots-sandbox/zip/main",
   "protected": false,
   "background": "worlds/shadowshots-sandbox/imagenes/Shadowland%20fondo.jpg",
-  "coreVersion": "0.8.9",
+  "coreVersion": "9.242",
   "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.11.0"
+  "systemVersion": "0.12.1"
 }
